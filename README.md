@@ -2,7 +2,7 @@
 
 
 
-A hybrid deepfake detection system that combines Convolutional Neural Networks (CNN), Frequency Domain Analysis (FFT), and Explainable AI (Grad-CAM + LLM) to accurately identify manipulated facial images.
+A Hybrid deepfake detection system that combines Convolutional Neural Networks (CNN), Frequency Domain Analysis (FFT), and Explainable AI (Grad-CAM + LLM) to accurately identify manipulated facial images.
 
 
 
